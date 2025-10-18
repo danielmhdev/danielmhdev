@@ -1,8 +1,7 @@
 # 👋 ¡Hola! Soy Daniel
 
-Soy un chico de 28 años de Palma, Illes Balears, España, actualmente estudiante de **FP de Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**.  
-Trabajo en el sector de la **enfermería**, donde combino mi pasión por el cuidado de la salud con el aprendizaje y desarrollo de habilidades tecnológicas.
-
+Soy un chico de 28 años de Palm de Mallorca, España, actualmente estudiante de **FP de Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**.  
+Trabajo de **enfermero**, donde combino mi pasión por el cuidado de la salud con el aprendizaje y desarrollo de habilidades tecnológicas
 ---
 
 ## 🚀 Sobre mí
