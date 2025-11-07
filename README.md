@@ -34,8 +34,8 @@ No busco cambiar el mundo de la noche a la mañana. Quiero:
 
 Si te interesa la intersección entre salud y tecnología, quieres colaborar en algún proyecto, o simplemente charlar sobre código y café, escríbeme:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/daniel-martin-hernandez-a439422a8)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/tu-usuario](https://github.com/danielmhdev))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-martin-hernandez-a439422a8)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/danielmhdev)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:danaelal@gmail.com)
 
 ---
