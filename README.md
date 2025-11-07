@@ -1,56 +1,49 @@
-# 👋 ¡Hola! Soy Daniel
+# Hey, soy Daniel 👋
 
-Soy un chico de 28 años de Palma de Mallorca, España, actualmente estudiante de FP de Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM).
-Trabajo de enfermero, donde combino mi pasión por el cuidado de la salud con el aprendizaje y desarrollo de habilidades tecnológicas
----
+Enfermero de día, developer en formación de noche. Vivo en Palma de Mallorca y me encanta encontrar formas de mezclar tecnología y salud para hacer la vida un poco mejor.
 
-## 🚀 Sobre mí
+Actualmente curso el Grado Superior de DAM mientras trabajo en el hospital 🚀
 
-- 💉 **Sanidad & Tecnología**: Enfermero en activo, dedicado a mejorar la vida de las personas y siempre buscando cómo la tecnología puede transformar la salud.
-- 🎓 **Estudiante de DAM**: Formándome para convertirme en desarrollador full-stack, ampliando habilidades en programación y desarrollo web y móvil.
-- 🌐 **Idiomas**: Inglés y noruego fluido. Facilidad para comunicarme y colaborar en equipos internacionales.
+## Un poco sobre mí
 
----
+Hablo inglés y noruego con fluidez (larga historia), lo que me permite colaborar con equipos de diferentes partes del mundo.
 
-## 💻 Tecnologías y Lenguajes
+**Lo que me mueve:** Creo firmemente que la tecnología puede revolucionar la sanidad. He visto de primera mano los problemas del sector, y ahora estoy aprendiendo a crear las soluciones.
 
-- Python
-- Java
-- JavaScript
-- HTML & CSS
-- SQL
-- ...y aprendiendo nuevas tecnologías constantemente.
+## 🛠️ Mi stack tecnológico
+skills = {
+"languages": ["Python", "Java", "JavaScript"],
+"frontend": ["HTML", "CSS", "React (aprendiendo)"],
+"backend": ["SQL", "Node.js (en proceso)"],
+"tools": ["Git", "IntelliJ IDEA", "VS Code"],
+"currently_learning": "Todo lo que caiga en mis manos 😅"
+}
 
----
+## 💭 Qué estoy haciendo ahora
 
-## 🎯 Objetivos
+- 📚 Sobreviviendo a DAM mientras trabajo a tiempo completo
+- 🏥 Aplicando conceptos de programación a problemas reales en sanidad
+- 🌱 Aprendiendo desarrollo full-stack poco a poco
+- 🤝 Abierto a colaborar en proyectos que generen impacto real
 
-- Aplicar la tecnología para mejorar procesos y generar impacto positivo en la vida de las personas.
-- Desarrollar proyectos innovadores combinando mis conocimientos en distintas áreas.
-- Colaborar en equipos multidisciplinares para afrontar retos actuales del mundo digital.
-- Continuar aprendiendo y creciendo tanto a nivel profesional como personal.
+## 🎯 Mis objetivos (sin florituras)
 
----
+No busco cambiar el mundo de la noche a la mañana. Quiero:
+- Construir herramientas que realmente faciliten la vida a profesionales sanitarios y pacientes
+- Seguir aprendiendo cada día (aunque sea debugging a las 2 AM)
+- Colaborar con gente que comparta la visión de tecnología con propósito
+- Demostrar que puedes reinventarte profesionalmente cuando encuentras tu pasión
 
-## 🤝 ¿Por qué trabajar conmigo?
+## 📬 Hablemos
 
-- Experiencia real en atención al cliente y equipos multidisciplinares del sector salud.
-- Capacidad de adaptación y aprendizaje rápido.
-- Motivación continua para la mejora personal y profesional.
-- Compromiso, responsabilidad y pasión por lo que hago.
+Si te interesa la intersección entre salud y tecnología, quieres colaborar en algún proyecto, o simplemente charlar sobre código y café, escríbeme:
 
----
-
-## 📫 ¡Conectemos!
-
-Siempre abierto a nuevas oportunidades, proyectos colaborativos y retos tecnológicos.  
-Puedes contactarme por GitHub, LinkedIn o correo electrónico.
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/daniel-martin-hernandez-a439422a8)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/tu-usuario](https://github.com/danielmhdev))
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:danaelal@gmail.com)
 
 ---
 
-> _“La tecnología tiene el potencial de transformar el mundo, y mi meta es aportar mi granito de arena para que eso ocurra.”_
-
----
-
-¡Gracias por visitar mi perfil!
-
+<div align="center">
+  <i>"El mejor código es el que resuelve problemas reales. Todo lo demás son líneas bonitas."</i>
+</div>
