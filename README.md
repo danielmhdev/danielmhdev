@@ -11,13 +11,10 @@ Hablo inglés y noruego con fluidez (larga historia), lo que me permite colabora
 **Lo que me mueve:** Creo firmemente que la tecnología puede revolucionar la sanidad. He visto de primera mano los problemas del sector, y ahora estoy aprendiendo a crear las soluciones.
 
 ## 🛠️ Mi stack tecnológico
-skills = {
-"languages": ["Python", "Java", "JavaScript"],
-"frontend": ["HTML", "CSS", "React (aprendiendo)"],
-"backend": ["SQL", "Node.js (en proceso)"],
-"tools": ["Git", "IntelliJ IDEA", "VS Code"],
-"currently_learning": "Todo lo que caiga en mis manos 😅"
-}
+## 💻 Tech Stack
+
+![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&lineCount=2&theme=github_dark&line1=java,java,ED8B00;python,python,3776AB;javascript,javascript,F7DF1E;html5,html5,E34F26;css3,css3,1572B6;&line2=mysql,mysql,4479A1;git,git,F05032;github,github,181717;visualstudiocode,vscode,007ACC;intellijidea,intellij,000000;)
+
 
 ## 💭 Qué estoy haciendo ahora
 
