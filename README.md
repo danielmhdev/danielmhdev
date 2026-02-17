@@ -22,7 +22,13 @@ Hablo inglés y noruego con fluidez (larga historia), lo que me permite colabora
 - 🌱 Aprendiendo desarrollo full-stack poco a poco
 - 🤝 Abierto a colaborar en proyectos que generen impacto real
 
-![Snake animation](https://github.com/danielmhdev/danielmhdev/blob/output/github-contribution-grid-snake.svg)
+### 👾 GitHub Activity using Pac-Man
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielmhdev/danielmhdev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielmhdev/danielmhdev/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/antoniorodr/danielmhdev/output/pacman-contribution-graph.svg">
+</picture>
 
 ## 🎯 Mis objetivos (sin florituras)
 
