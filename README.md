@@ -22,7 +22,7 @@ Hablo inglés y noruego con fluidez (larga historia), lo que me permite colabora
 - 🌱 Aprendiendo desarrollo full-stack poco a poco
 - 🤝 Abierto a colaborar en proyectos que generen impacto real
 
-![Snake animation](https://github.com/TU_USUARIO/TU_USUARIO/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/danielmhdev/danielmhdev/blob/output/github-contribution-grid-snake.svg)
 
 ## 🎯 Mis objetivos (sin florituras)
 
