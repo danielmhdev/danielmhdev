@@ -28,7 +28,7 @@ Hablo inglés y noruego con fluidez (larga historia), lo que me permite colabora
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/antoniorodr/danielmhdev/output/pacman-contribution-graph.svg">
 </picture>
 
-## 🎯 Mis objetivos (sin florituras)
+## 🎯 Mis objetivos
 
 - Construir herramientas que realmente faciliten la vida
 - Seguir aprendiendo cada día (aunque sea debugging a las 2 AM)
