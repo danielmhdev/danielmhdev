@@ -20,7 +20,7 @@ Hablo inglés y noruego con fluidez (larga historia), lo que me permite colabora
 - 🌱 Aprendiendo desarrollo y Data Analytic poco a poco
 - 🤝 Abierto a colaborar en proyectos que generen impacto real
 
-### 👾 GitHub Activity using Pac-Man
+### 👾 GitHub Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielmhdev/danielmhdev/output/pacman-contribution-graph-dark.svg">
