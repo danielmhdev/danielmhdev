@@ -12,8 +12,7 @@ Hablo inglés y noruego con fluidez (larga historia), lo que me permite colabora
 
 ## 🛠️ Mi stack tecnológico
 
-![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&lineCount=2&theme=github_dark&line1=java,java,ED8B00;python,python,3776AB;javascript,javascript,F7DF1E;html5,html5,E34F26;css3,css3,1572B6;&line2=mysql,mysql,4479A1;git,git,F05032;github,github,181717;visualstudiocode,vscode,007ACC;intellijidea,intellij,000000;)
-
+![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&lineCount=3&theme=github_dark&line1=java,java,ED8B00;kotlin,kotlin,7F52FF;python,python,3776AB;javascript,javascript,F7DF1E;&line2=mysql,mysql,4479A1;postgresql,postgresql,4169E1;powerbi,power%20bi,F2C811;odoo,odoo,714B67;&line3=git,git,F05032;github,github,181717;androidstudio,android%20studio,3DDC84;intellijidea,intellij,000000;visualstudiocode,vscode,007ACC;)
 
 ## 💭 Qué estoy haciendo ahora
 
