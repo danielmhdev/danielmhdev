@@ -1,8 +1,8 @@
 # Hey, soy Daniel 👋
 
-Enfermero de día, developer en formación de noche. Vivo en Palma de Mallorca y me encanta encontrar formas de mezclar tecnología y salud para hacer la vida un poco mejor.
+Enfermero de día, developer en formación de noche. Vivo en Palma de Mallorca y me encanta encontrar formas de mezclar tecnología y salud.
 
-Actualmente curso el Grado Superior de DAM mientras trabajo en el hospital 🚀
+Actualmente curso el Grado Superior de DAM mientras trabajo en el hospital.
 
 ## Un poco sobre mí
 
@@ -18,8 +18,7 @@ Hablo inglés y noruego con fluidez (larga historia), lo que me permite colabora
 ## 💭 Qué estoy haciendo ahora
 
 - 📚 Sobreviviendo a DAM mientras trabajo a tiempo completo
-- 🏥 Aplicando conceptos de programación a problemas reales en sanidad
-- 🌱 Aprendiendo desarrollo full-stack poco a poco
+- 🌱 Aprendiendo desarrollo y Data Analytic poco a poco
 - 🤝 Abierto a colaborar en proyectos que generen impacto real
 
 ### 👾 GitHub Activity using Pac-Man
@@ -32,8 +31,7 @@ Hablo inglés y noruego con fluidez (larga historia), lo que me permite colabora
 
 ## 🎯 Mis objetivos (sin florituras)
 
-No busco cambiar el mundo de la noche a la mañana. Quiero:
-- Construir herramientas que realmente faciliten la vida a profesionales sanitarios y pacientes
+- Construir herramientas que realmente faciliten la vida
 - Seguir aprendiendo cada día (aunque sea debugging a las 2 AM)
 - Colaborar con gente que comparta la visión de tecnología con propósito
 - Demostrar que puedes reinventarte profesionalmente cuando encuentras tu pasión
